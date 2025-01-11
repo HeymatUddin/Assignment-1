@@ -119,7 +119,7 @@ nav{
     border-radius: 10px;
 }
 .inner-message{
-    background-image: url('/assets/quote-bg.png');
+    background-image: url("/assets/quote-bg.png");
     background-repeat: no-repeat;
     padding-top:10px ;
 }
